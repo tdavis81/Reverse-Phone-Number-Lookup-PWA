@@ -171,7 +171,7 @@ export default {
   {
     return {
       phoneNumber: '',
-      APIKEY:'b135134f18e34b338200a8c0fa43c28d',
+      APIKEY:'xxxxx',
       URL: 'https://proapi.whitepages.com/3.0',
       returnedInformation: {},
       btnClicked: false
